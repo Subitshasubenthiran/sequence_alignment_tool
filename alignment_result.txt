@@ -1,0 +1,15 @@
+Sequence Alignment Result
+=========================
+
+Global Alignment
+GATTACA
+|  | | 
+GCATGCU
+
+Alignment Score: -1
+
+Alignment Statistics
+Matches: 3
+Mismatches: 4
+Gaps: 0
+Identity: 42.86%
